@@ -1,0 +1,405 @@
+import { product } from "@/type/product";
+
+export const fakeAdData: product[] = [
+  {
+    id: "664be7520393680034abd208",
+    slug: "dell-leptop-14-full-hd-display-4-500-for-sale-mymensingh",
+    title: 'Dell Leptop 14" Full HD Display 4/500',
+    description: "Mymensingh, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/dell-leptop-14-full-hd-display-4-500-for-sale-mymensingh/0861cebe-4f9b-4ea7-84d5-03012890f253/142/107/cropped.jpg",
+    price: "650",
+    shopName: "",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Mymensingh",
+    condition: "Used",
+  },
+  {
+    id: "664be65ac7abb90031637d9e",
+    slug: "full-fresh-4-gb-ram-320-hard-drive-for-sale-chattogram-division",
+    title: "FULL FRESH 4 GB RAM 320 HARD DRIVE",
+    description: "Chattogram Division, Desktop Computers",
+    imgUrl:
+      "https://i.bikroy-st.com/full-fresh-4-gb-ram-320-hard-drive-for-sale-chattogram-division/1dcddb0e-5736-45e5-a900-aa02c3922920/142/107/cropped.jpg",
+    price: "8,000",
+    shopName: "",
+    category: {
+      id: 893,
+      name: "Desktop Computers",
+    },
+    location: "Chattogram Division",
+    condition: "Used",
+  },
+  {
+    id: "664be525052e61001f96486a",
+    slug: "jy-super-2218-rechargeable-fan-for-sale-dhaka-division-1",
+    title: "JY super 2218 rechargeable fan",
+    description: "Dhaka Division, Other Electronics",
+    imgUrl:
+      "https://i.bikroy-st.com/jy-super-2218-rechargeable-fan-for-sale-dhaka-division-1/1810dd1b-ed86-4f58-996a-eee5d0e7ee0f/142/107/cropped.jpg",
+    price: "13",
+    shopName: "",
+    category: {
+      id: 244,
+      name: "Other Electronics",
+    },
+    location: "Dhaka Division",
+    condition: "Used",
+  },
+  {
+    id: "664291be4ebd690052d5e27c",
+    slug: "hp-840-g6-i5-8th-8-256gb-wholesale-dubai-stock-for-sale-chattogram",
+    title: "Hp 840 G6 i5 8th 8/256GB Wholesale Dubai Stock",
+    description: "Chattogram, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-840-g6-i5-8th-8-256gb-wholesale-dubai-stock-for-sale-chattogram/61b21690-e2a9-4437-ad36-f73ed9882f29/142/107/cropped.jpg",
+    price: "25,900",
+    shopName: "Dubai Wholesale Laptop",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664be4071e524a00443845a9",
+    slug: "i7-hp-830-g6-8gb-256gb-wholesale-only-for-sale-chattogram",
+    title: "i7 Hp 830 G6 8GB 256GB Wholesale Only",
+    description: "Chattogram, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/i7-hp-830-g6-8gb-256gb-wholesale-only-for-sale-chattogram/ee714a63-10cb-46d2-a3bd-826faa928688/142/107/cropped.jpg",
+    price: "27,500",
+    shopName: "Dubai Wholesale Laptop",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664be2fd9a564a001f5d9c63",
+    slug: "x360-hp-1040-g6-i7-16gb-512gb-wholesale-for-sale-chattogram",
+    title: "X360 Hp 1040 G6 i7 16GB 512GB Wholesale",
+    description: "Chattogram, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/x360-hp-1040-g6-i7-16gb-512gb-wholesale-for-sale-chattogram/68348b71-036b-47d5-a58d-1e4d74ee0ecd/142/107/cropped.jpg",
+    price: "42,700",
+    shopName: "Dubai Wholesale Laptop",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664be254052e610035964861",
+    slug: "wholesale-hp-840-g4-i7-8-256-best-price-for-sale-chattogram",
+    title: "Wholesale Hp 840 G4 i7 8/256 Best Price",
+    description: "Chattogram, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/wholesale-hp-840-g4-i7-8-256-best-price-for-sale-chattogram/36fb3b53-1707-4e70-8fac-f51c7e78644d/142/107/cropped.jpg",
+    price: "22,700",
+    shopName: "Dubai Wholesale Laptop",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664bd9387b49bd00335b7bb4",
+    slug: "raauttaarer-caarjaar-for-sale-mymensingh-3",
+    title: "রাউটারের চার্জার",
+    description: "Mymensingh, Other Electronics",
+    imgUrl:
+      "https://i.bikroy-st.com/raauttaarer-caarjaar-for-sale-mymensingh-3/4da20851-2a4b-4ba1-b1ef-dea1c311f4a8/142/107/cropped.jpg",
+    price: "250",
+    shopName: "",
+    category: {
+      id: 244,
+      name: "Other Electronics",
+    },
+    location: "Mymensingh",
+    condition: "Used",
+  },
+  {
+    id: "664bd80fec83f00031b2f9d1",
+    slug: "hp-elitebook-840-g6-core-i7-touch-dedicated-2gb-gpu-ddr5-ram-16gb-256gb-for-sale-khulna",
+    title:
+      "HP EliteBook 840 G6 Core i7 Touch Dedicated 2GB GPU DDR5 Ram-16GB/256GB",
+    description: "Khulna, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-elitebook-840-g6-core-i7-touch-dedicated-2gb-gpu-ddr5-ram-16gb-256gb-for-sale-khulna/c6d0f34a-363b-4bab-b1c9-eb1d294c8d65/142/107/cropped.jpg",
+    price: "40,500",
+    shopName: "Computer Hospital ",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Khulna",
+    condition: "Used",
+  },
+  {
+    id: "664bd72d8e1b960033f47e92",
+    slug: "urgent-sale-taka-dorkar-for-sale-dhaka",
+    title: "Urgent Sale Taka Dorkar",
+    description: "Dhaka, Laptop & Computer Accessories",
+    imgUrl:
+      "https://i.bikroy-st.com/urgent-sale-taka-dorkar-for-sale-dhaka/27419b59-af7f-4ab1-9ca6-4b5c0e654cd4/142/107/cropped.jpg",
+    price: "1,400",
+    shopName: "",
+    category: {
+      id: 897,
+      name: "Laptop & Computer Accessories",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+  {
+    id: "64001eef09774d007bc00805",
+    slug: "gree-ac-1-ton-inverter-12000-btu-for-sale-chattogram-1",
+    title: "GREE AC 1 TON Inverter 12000 Btu",
+    description: "Chattogram, ACs & Home Electronics",
+    imgUrl:
+      "https://i.bikroy-st.com/gree-ac-1-ton-inverter-12000-btu-for-sale-chattogram-1/f028d835-5de7-47a8-9f67-ebd2005f4deb/142/107/cropped.jpg",
+    price: "44,500",
+    shopName: "A.R.B. Enterprise",
+    category: {
+      id: 899,
+      name: "ACs & Home Electronics",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664bd29e8e1b960033f47e88",
+    slug: "aajke-postt-krechi-saaittttaa-31-minitte-krnel-haatt-cttttgraam-for-sale-chattogram",
+    title: "আজকে পোস্ট করেছি সাইটটা 31 মিনিটে কর্নেল হাট চট্টগ্রাম",
+    description: "Chattogram, Other Electronics",
+    imgUrl:
+      "https://i.bikroy-st.com/aajke-postt-krechi-saaittttaa-31-minitte-krnel-haatt-cttttgraam-for-sale-chattogram/8230bfca-8fc6-43b6-9b1b-16c4ce575a3f/142/107/cropped.jpg",
+    price: "6,000",
+    shopName: "",
+    category: {
+      id: 244,
+      name: "Other Electronics",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664bce915fbf9f0046513359",
+    slug: "nikon-50mm-14-for-sale-barishal",
+    title: "nikon 50mm 1.4",
+    description: "Barishal, Cameras, Camcorders & Accessories",
+    imgUrl:
+      "https://i.bikroy-st.com/nikon-50mm-14-for-sale-barishal/ad3e606f-2c10-44b8-aff7-5b10d77aee7e/142/107/cropped.jpg",
+    price: "14,000",
+    shopName: "",
+    category: {
+      id: 855,
+      name: "Cameras, Camcorders & Accessories",
+    },
+    location: "Barishal",
+    condition: "Used",
+  },
+  {
+    id: "664bcc6c371a6f002159ca8b",
+    slug: "electric-oven-for-sale-dhaka-1389",
+    title: "Electric Oven",
+    description: "Dhaka, Home Appliances",
+    imgUrl:
+      "https://i.bikroy-st.com/electric-oven-for-sale-dhaka-1389/f66cf923-ba33-4489-9d68-fb4b3550f72d/142/107/cropped.jpg",
+    price: "3,500",
+    shopName: "",
+    category: {
+      id: 898,
+      name: "Home Appliances",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+  {
+    id: "664bc9de14f341003a851cc6",
+    slug: "khub-bhaalo-ekttaa-phrij-for-sale-khulna-11",
+    title: "খুব ভালো একটা ফ্রিজ",
+    description: "Khulna, Home Appliances",
+    imgUrl:
+      "https://i.bikroy-st.com/khub-bhaalo-ekttaa-phrij-for-sale-khulna-11/d74f0104-a71d-4a6e-9b36-defc1ac5e7af/142/107/cropped.jpg",
+    price: "12,000",
+    shopName: "",
+    category: {
+      id: 898,
+      name: "Home Appliances",
+    },
+    location: "Khulna",
+    condition: "Used",
+  },
+  {
+    id: "664bc799371a6f003159ca82",
+    slug: "dslr-camera-bag-jonakey-m99-for-sale-dhaka",
+    title: "DSLR Camera Bag Jonakey M99",
+    description: "Dhaka, Cameras, Camcorders & Accessories",
+    imgUrl:
+      "https://i.bikroy-st.com/dslr-camera-bag-jonakey-m99-for-sale-dhaka/388cd5d8-f6dc-4642-8661-2a1ff9195498/142/107/cropped.jpg",
+    price: "1,550",
+    shopName: "",
+    category: {
+      id: 855,
+      name: "Cameras, Camcorders & Accessories",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+  {
+    id: "664bcc9320558d00499e1153",
+    slug: "dell-inspiron-3420-core-i3-ram-4gb-hdd-500gb-saathe-byaag-phri-for-sale-khulna",
+    title: "Dell Inspiron 3420 Core i3 Ram-4GB/HDD-500GB ☑️সাথে ব্যাগ ফ্রি",
+    description: "Khulna, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/dell-inspiron-3420-core-i3-ram-4gb-hdd-500gb-saathe-byaag-phri-for-sale-khulna/656fa49a-bf40-41a2-92bb-3386942cab8b/142/107/cropped.jpg",
+    price: "9,990",
+    shopName: "Computer Hospital ",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Khulna",
+    condition: "Used",
+  },
+  {
+    id: "664af872b9908d004d14340c",
+    slug: "hp-elitebook-845-g7-ryzen-5-ram16gb-ssd256gb-hd14-fhd-for-sale-dhaka",
+    title: 'HP ELITEBOOK 845 G7-Ryzen-5-Ram16Gb-Ssd256Gb-HD14" Fhd',
+    description: "Dhaka, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-elitebook-845-g7-ryzen-5-ram16gb-ssd256gb-hd14-fhd-for-sale-dhaka/168f3e91-b0cb-4522-a260-6c1de99548ed/142/107/cropped.jpg",
+    price: "39,500",
+    shopName: "Maruf Computer",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+  {
+    id: "663fec10a548720022f98c30",
+    slug: "hp-probook-cor-i5-6th-gen-8gb-ram-256gb-ssd-stock-available-for-sale-dhaka",
+    title: "hp probook cor i5 6th gen 8gb ram 256gb ssd (stock available)",
+    description: "Dhaka, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-probook-cor-i5-6th-gen-8gb-ram-256gb-ssd-stock-available-for-sale-dhaka/72e15185-4418-4d95-b630-c1fa5604693e/142/107/cropped.jpg",
+    price: "18,500",
+    shopName: "Rainbow electronics",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+  {
+    id: "664bcb1a4df41400324b7fdb",
+    slug: "gopro-hero-10-black-for-sale-rajshahi-division",
+    title: "GoPro Hero 10 Black",
+    description: "Rajshahi Division, Cameras, Camcorders & Accessories",
+    imgUrl:
+      "https://i.bikroy-st.com/gopro-hero-10-black-for-sale-rajshahi-division/ba767a61-9ee2-4422-b4f4-cc486e2727d4/142/107/cropped.jpg",
+    price: "26,000",
+    shopName: "",
+    category: {
+      id: 855,
+      name: "Cameras, Camcorders & Accessories",
+    },
+    location: "Rajshahi Division",
+    condition: "Used",
+  },
+  {
+    id: "664bc909625bc800342896f5",
+    slug: "aajke-postt-krechi-tinttaa-10-minitte-krnnaarhaatt-cttttgraam-for-sale-chattogram",
+    title: "আজকে পোস্ট করেছি তিনটা ১০ মিনিটে কর্ণারহাট চট্টগ্রাম",
+    description: "Chattogram, Other Electronics",
+    imgUrl:
+      "https://i.bikroy-st.com/aajke-postt-krechi-tinttaa-10-minitte-krnnaarhaatt-cttttgraam-for-sale-chattogram/0e245172-6314-4dda-a896-f576cf2cc857/142/107/cropped.jpg",
+    price: "8,000",
+    shopName: "",
+    category: {
+      id: 244,
+      name: "Other Electronics",
+    },
+    location: "Chattogram",
+    condition: "Used",
+  },
+  {
+    id: "664bc8cae9e7ec004323346b",
+    slug: "hik-v-for-sale-khulna",
+    title: "Hik v",
+    description: "Khulna, Cameras, Camcorders & Accessories",
+    imgUrl:
+      "https://i.bikroy-st.com/hik-v-for-sale-khulna/851df8bc-b0ea-4177-9cd8-59d923500d2a/142/107/cropped.jpg",
+    price: "850",
+    shopName: "",
+    category: {
+      id: 855,
+      name: "Cameras, Camcorders & Accessories",
+    },
+    location: "Khulna",
+    condition: "Used",
+  },
+  {
+    id: "664bc6fcc263c7001f1c9e76",
+    slug: "hp-elitebook-840-g1-core-i5-4th-generation-ram-8gb-ssd-240gb-for-sale-khulna",
+    title: "HP EliteBook 840 G1 Core i5 4th Generation Ram-8GB/SSD-240GB",
+    description: "Khulna, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-elitebook-840-g1-core-i5-4th-generation-ram-8gb-ssd-240gb-for-sale-khulna/19ef7a7e-44f0-421d-b516-e8b3f5b2d498/142/107/cropped.jpg",
+    price: "16,990",
+    shopName: "Computer Hospital ",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Khulna",
+    condition: "Used",
+  },
+  {
+    id: "664bc5b928ba3f003fa8a53f",
+    slug: "hp-elitebook-840-g3-er-paars-bikri-hbe-for-sale-dhaka-division-3",
+    title: "HP EliteBook 840 G3 এর পার্স বিক্রি হবে,",
+    description: "Dhaka Division, Laptops",
+    imgUrl:
+      "https://i.bikroy-st.com/hp-elitebook-840-g3-er-paars-bikri-hbe-for-sale-dhaka-division-3/e545c35b-b30e-42d4-a82d-afe3c27c60f9/142/107/cropped.jpg",
+    price: "5,000",
+    shopName: "",
+    category: {
+      id: 896,
+      name: "Laptops",
+    },
+    location: "Dhaka Division",
+    condition: "Used",
+  },
+  {
+    id: "66384dd1e8a683004903af42",
+    slug: "brro-mnittr-22-diyye-core-2-due-4gb-ram-er-pisi-saathe-giphtt-for-sale-dhaka",
+    title: 'বড়ো মনিটর ২২" দিয়ে Core 2 Due 4GB Ram এর পিসি সাথে গিফট',
+    description: "Dhaka, Desktop Computers",
+    imgUrl:
+      "https://i.bikroy-st.com/brro-mnittr-22-diyye-core-2-due-4gb-ram-er-pisi-saathe-giphtt-for-sale-dhaka/78965637-2d39-4a58-b3a7-b9e1a39e9c81/142/107/cropped.jpg",
+    price: "6,990",
+    shopName: "Jannat Computer",
+    category: {
+      id: 893,
+      name: "Desktop Computers",
+    },
+    location: "Dhaka",
+    condition: "Used",
+  },
+];
